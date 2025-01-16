@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="sqlite-jdbc-3.41.2.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/src/sqlite-jdbc-3.41.2.1.jar!/"/>
+	</lib>
+	<lib name="sqlite-jdbc-3.15.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/src/sqlite-jdbc-3.15.1.jar!/"/>
+	</lib>
+</component>
