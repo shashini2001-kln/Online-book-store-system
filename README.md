@@ -26,7 +26,7 @@ The project utilizes the following classes to demonstrate **Object-Oriented Prog
 ### 📂 Classes  
 - **👤 Registration Class**: Handles user sign-ups.  
 - **🔑 Login Class**: Manages user authentication.  
-- **📚 Book Class**: Represents book attributes (e.g., title, author, price, availability).  
+- **📚 Book Class**: Represents book attributes .  
 - **📦 Orders Class**: Processes and tracks customer orders.  
 - **💰 Payments Class**: Manages transactions.  
 - **🗨️ Feedback Class**: Captures and stores user feedback.  
@@ -45,8 +45,8 @@ The project utilizes the following classes to demonstrate **Object-Oriented Prog
 
 ## ⚙️ Technologies Used  
 - **☕ Programming Language**: Java  
-- **📦 Database**: [Mention the database, e.g., MySQL, SQLite]  
-- **🛠️ Tools**: [Mention tools like Eclipse, IntelliJ, or NetBeans]  
+- **📦 Database**: [MySQL]  
+- **🛠️ Tools**: [IntelliJ IDEA]  
 
 ---
 
